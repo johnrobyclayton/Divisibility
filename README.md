@@ -1,2 +1,2 @@
-# divisibility
+# Divisibility
 Divisibility
