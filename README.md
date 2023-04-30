@@ -1,2 +1,2 @@
-# Divisibility
-Divisibility
+# division-project
+division=project
